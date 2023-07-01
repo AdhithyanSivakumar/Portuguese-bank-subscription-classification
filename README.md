@@ -1,4 +1,4 @@
-Telemarketing data analysis
+# Telemarketing data analysis
 
 
 Analyzing marketing campaign datasets of banks is crucial for banks to stay competitive, improve their marketing strategies, and ultimately, better serve their customers. It has numerous benefits which include Understanding Customer Behaviour, identifying new opportunities, improving telemarketing strategies, and many more. This project is about analyzing a marketing campaign dataset of a Portuguese banking institution. It aims to develop Machine Learning that can accurately predict the likelihood that a customer will subscribe to a term deposit. The dataset in this project was taken from UCI Machine Learning Repository.
