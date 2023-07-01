@@ -33,8 +33,8 @@ We start the project with the Exploratory data analysis. It includes identifying
 Tree based models were found to be highly accurate and also handled the flaws in data really well. Gradient boost was found to be the best working model with certain hyperparameters that were derived using GridSearchCV and Cross Validation techniques. The final achieved an outstanding accuracy of 93.45% with F1 score of 93.31, precision of 91.41%, recall of 95.31% and AUC-ROC score of 93.52%. This indicates that model is able to precisely segregate the 'no' and 'yes' classes.
 
 # Contributors:
-Rohit Jalani
-Adhithyan Sivakumar
-Atif Rehman
-Gaurav Singh
-Kritik Chopra
+Rohit Jalani,
+Adhithyan Sivakumar,
+Atif Rehman,
+Gaurav Singh,
+Kritik Chopra.
